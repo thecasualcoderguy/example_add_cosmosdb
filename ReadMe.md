@@ -214,7 +214,7 @@
 
 ## Frontend
 
-1. Create a `.env.local` file in `./src/` and add the following:
+1. Create a `.env.local` file in `./frontend/` and add the following:
     ```sh
     VITE_API_URL=http://localhost:7071
     ```
