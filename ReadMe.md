@@ -289,7 +289,8 @@
 ## Setting Up Production Environment
 
 1. Go to the [Azure Portal](https://portal.azure.com/)
-
+2. Go TO Static Web App
+3. Settings > Enviorment Variables
 2. Set Enviorment Keys
     1. "COSMOS_DATABASE": "test-database",
     2. "COSMOS_CONTAINER": "test-container",
